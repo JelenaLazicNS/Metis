@@ -4,3 +4,5 @@ Welcome to Matis!
 Nav: login
 
 Register
+
+Contact us hello@metis.com
