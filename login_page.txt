@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Welcome to login page!
-=======
+
 Forgot pasword?
->>>>>>> origin/master
+
